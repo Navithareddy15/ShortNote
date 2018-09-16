@@ -1,0 +1,6 @@
+framework module Pods_ShortNote {
+  umbrella header "Pods-ShortNote-umbrella.h"
+
+  export *
+  module * { export * }
+}

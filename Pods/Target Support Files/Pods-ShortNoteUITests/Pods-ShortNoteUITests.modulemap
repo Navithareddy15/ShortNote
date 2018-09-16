@@ -1,0 +1,6 @@
+framework module Pods_ShortNoteUITests {
+  umbrella header "Pods-ShortNoteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
